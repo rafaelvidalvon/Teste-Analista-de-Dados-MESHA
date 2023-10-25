@@ -1,4 +1,6 @@
-# Teste Analista de Dados
+# 📈 | Teste Analista de Dados
+![Status](https://img.shields.io/badge/Status-emdesenvolvimento-abf285.svg)
+
 Critérios avaliadas:
 - Uso de Funções DAX
 - Documentação das medidas
